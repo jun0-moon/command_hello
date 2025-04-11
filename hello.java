@@ -1,5 +1,8 @@
 interface Main{
 	static void main(String[] args){
-		System.out.print("Hello world");
+		System.out.println("Hello world");
+		System.out.println("tell your world");
+		System.out.println("tell his world");
+		System.out.println("tell her world");
 	}
 }
