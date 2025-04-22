@@ -8,6 +8,5 @@ interface Main{
 		System.out.println("tell your world");
 		System.out.println("tell his world");
 		System.out.println("tell her world");
-		System.out.println("tell my world");
 	}
 }
